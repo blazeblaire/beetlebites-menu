@@ -4,11 +4,34 @@
     margin: 5px;
     display: grid;
     grid-template-columns: 60% 40%;
+    align-items: center;
 
 }
 
-.bites {}
-
 .bites {
-    padding: 0px;
+    margin: 5px;
+}
+
+.bites2 {
+    padding: 15px;
+    margin: 20px;
+
+}
+
+.res {
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.green {
+    font-weight: bold;
+    color: green;
+
+}
+
+.cuisine {
+    box-shadow: 0cqmin;
+    background-color: beige;
+    border-radius: 10px;
+
 }
