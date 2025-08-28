@@ -25,8 +25,36 @@
 
 .cuisine {
     box-shadow: 0cqmin;
-    background-color: beige;
+    background-color: #ADD8E6;
     border-radius: 10px;
     padding: 20px;
 
+}
+
+.pricetag {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #007BFF;
+    /* A nice, visible color for the price */
+    background-color: #eaf6ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.pricetag:hover {
+    background-color: #c8cbce;
+    cursor: pointer;
+    color: aquamarine;
+}
+
+.vend-sans-cuisine {
+    font-family: "Vend Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+}
+
+h1 {
+    color: #67b4cd;
 }
