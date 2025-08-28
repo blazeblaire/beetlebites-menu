@@ -1,0 +1,14 @@
+.container {
+    /* display: flex; */
+    padding: 0px;
+    margin: 5px;
+    display: grid;
+    grid-template-columns: 60% 40%;
+
+}
+
+.bites {}
+
+.bites {
+    padding: 0px;
+}
